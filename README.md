@@ -46,19 +46,21 @@
 
 ---
 
-## 🎓 Major Milestone: Graduation Project (SIS & Student Portal)
-I am currently dedicating **5 months** of intensive development (4-5 hours daily) to build a professional **Student Information System (SIS)** and **Student Portal**.
+## 🎯 Future Goals & Career Path (Post-Foundations)
+Once I complete this fundamental roadmap (27 courses), I will transition into professional specialization with the following plan:
 
-### 🛠 Project Focus & Architecture:
-* **Architecture:** Studying and implementing **Clean Architecture** patterns to ensure scalability, maintainability, and separation of concerns.
-* **Core Systems:** Comprehensive SIS for administrative tasks + Interactive Portal for students.
-* **Learning Methodology:** Bridging theoretical knowledge from the roadmap with real-world enterprise patterns.
+### 🌐 Full Stack Web Development Specialization
+* **Primary Tech Stack:** Building enterprise applications using **.NET Core** for Backend and **Angular** for Frontend.
+* **Master Web Roadmap:** Upon finishing this current foundations repo, I will launch a **dedicated Master Repository** for my Web Development journey to document every step in the specialization phase.
 
----
+### 🏆 Competitive Programming (CP)
+* I aim to start intensive CP training in parallel with my specialization studies. 
+* **Goal:** Compete in **ECPC/ACPC** and work towards achieving high ranks (Candidate Master/Master) on Codeforces to keep my problem-solving skills sharp.
 
-## 🎯 Career Vision & Specialization
-* **Full Stack Web Development:** My primary specialization is becoming a **Full Stack Developer** (.NET Core & Angular), focusing on building secure and high-performance web systems.
-* **Competitive Programming (CP):** Parallel to my development path, I am training for **ECPC/ACPC** contests, aiming for **Candidate Master/Master** rank on Codeforces to sharpen my algorithmic thinking.
-* **Security Mindset:** Integrating my passion for **Cybersecurity** (Web & AppSec) into every line of code I write.
+### 🎓 Graduation Project: Student Information System (SIS)
+The capstone of my academic journey will be a comprehensive **Student Information System (SIS) & Student Portal**:
+* **Architecture:** Planned implementation of **Clean Architecture** to ensure a professional, scalable codebase.
+* **Dedication:** This project will involve 5 months of intensive development, with a daily commitment of 4-5 hours of deep work and research.
+* **Objective:** Bridging the gap between academic foundations and professional-grade software development.
 
 ---
