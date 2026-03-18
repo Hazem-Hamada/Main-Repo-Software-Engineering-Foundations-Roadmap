@@ -10,9 +10,11 @@
 
 ### 📊 Roadmap Progress (8/27 Courses)
 
+--
 
 ![Progress](https://img.shields.io/badge/Progress-29%25-green)
 
+--
 
 1. [x] 01 - Programming Foundations - Level 1
 2. [x] 02 - Algorithms & Problem-Solving - Level 1
@@ -41,3 +43,22 @@
 25. [ ] 25 - Introduction to RESTful API
 26. [ ] 26 - Secure Your APIs: JWT, Roles & Policies
 27. [ ] 27 - SOLID Principles
+
+---
+
+## 🎓 Major Milestone: Graduation Project (SIS & Student Portal)
+I am currently dedicating **5 months** of intensive development (4-5 hours daily) to build a professional **Student Information System (SIS)** and **Student Portal**.
+
+### 🛠 Project Focus & Architecture:
+* **Architecture:** Studying and implementing **Clean Architecture** patterns to ensure scalability, maintainability, and separation of concerns.
+* **Core Systems:** Comprehensive SIS for administrative tasks + Interactive Portal for students.
+* **Learning Methodology:** Bridging theoretical knowledge from the roadmap with real-world enterprise patterns.
+
+---
+
+## 🎯 Career Vision & Specialization
+* **Full Stack Web Development:** My primary specialization is becoming a **Full Stack Developer** (.NET Core & Angular), focusing on building secure and high-performance web systems.
+* **Competitive Programming (CP):** Parallel to my development path, I am training for **ECPC/ACPC** contests, aiming for **Candidate Master/Master** rank on Codeforces to sharpen my algorithmic thinking.
+* **Security Mindset:** Integrating my passion for **Cybersecurity** (Web & AppSec) into every line of code I write.
+
+---
