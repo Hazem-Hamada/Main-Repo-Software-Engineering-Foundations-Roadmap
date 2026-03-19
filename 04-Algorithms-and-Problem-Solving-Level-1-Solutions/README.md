@@ -50,4 +50,3 @@ Successful completion of this stage verifies my **Clean-Code Readiness**. I no l
 ---
 ## 🔗 Connect with Me
 * **LinkedIn:** [Hazem Hamada](https://www.linkedin.com/in/hazem-hamada-emara)
-* **Main Roadmap Repo:** [Back to Main Roadmap](../)
