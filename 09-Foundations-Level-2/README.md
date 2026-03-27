@@ -6,7 +6,7 @@ This course is the theoretical cornerstone of my journey. It focuses on the fund
 ---
 
 ## 🔗 Quick Links
-* 📢 **[LinkedIn Progress Update](رابط_البوست_هنا):** (Placeholder for the upcoming post).
+* 📢 **[LinkedIn Progress Update](https://www.linkedin.com/posts/hazem-hamada-emara_certificate-of-09-foundations-level-2-ugcPost-7443377774720978944-NGRL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_0vlUBVIjWe2WLjCV1uJpTleKhmpj6T9w):**.
 * 📜 **[Main Roadmap Repository](https://github.com/Hazem-Hamada/Main-Repo-Software-Engineering-Foundations-Roadmap)**
 * 👤 **[LinkedIn Profile](https://www.linkedin.com/in/hazem-hamada-emara)**
 
