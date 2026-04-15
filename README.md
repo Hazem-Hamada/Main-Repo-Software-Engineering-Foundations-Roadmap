@@ -8,11 +8,11 @@
 
 ### 🚀 Software Engineering Roadmap Checklist
 
-### 📊 Roadmap Progress (8/27 Courses)
+### 📊 Roadmap Progress (9/27 Courses)
 
 --
 
-![Progress](https://img.shields.io/badge/Progress-29%25-green)
+![Progress](https://img.shields.io/badge/Progress-33%25-green)
 
 --
 
@@ -23,7 +23,7 @@
 5. [x] 05 - Algorithms & Problem-Solving - Level 2
 6. [x] 06 - Introduction to Programming Using C++ - Level 2
 7. [x] 07 - Algorithms & Problem-Solving - Level 3
-8. [ ] 08 - Algorithms & Problem-Solving - Level 4
+8. [x] 08 - Algorithms & Problem-Solving - Level 4
 9. [x] 09 - Foundations Level 2 (Networks & Internet)
 10. [ ] 10 - OOP as it Should Be (Concepts)
 11. [ ] 11 - OOP as it Should Be (Applications)
