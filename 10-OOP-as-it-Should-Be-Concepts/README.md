@@ -13,7 +13,7 @@ This course is the cornerstone of the entire Software Engineering track. Marking
 * 🚀 **[Main Projects Repository](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses):** The unified repository showcasing all integrated applications built across the roadmap.
 
 ### 🌐 Social & Technical Write-Ups
-* 🎓 **[LinkedIn: Course 10 Completion & Date/Period Showcase](ضع_رابط_منشور_الكورس_هنا_بعد_الرفع):** *[ضع رابط منشور الكورس هنا بعد الرفع]* Architecture breakdown of `clsDate` and the shift toward Object-Oriented design patterns.
+* 🎓 **[LinkedIn: Course 10 Completion & Showcase](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496598066611949568/):** Architecture breakdown of `clsDate` & `clsString`, memory mechanics, and the shift toward Object-Oriented design patterns.
 
 ---
 
