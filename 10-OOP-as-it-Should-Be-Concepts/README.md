@@ -10,7 +10,6 @@ This course is the cornerstone of the entire Software Engineering track. Marking
 ### 🏗️ Production-Grade Utility Libraries & Projects
 * 🔤 **[clsString Utility Library](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/tree/main/Course%2010%3A%20Projects/Project%201%20-%20String%20Library):** A dual-paradigm C++ library encapsulating procedural text algorithms into static utilities and instance-bound methods.
 * 📅 **[clsDate & clsPeriod Libraries](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/tree/main/Course%2010%3A%20Projects/Project%202%20-%20Date%20Library):** An enterprise date-engineering suite handling complex calendar arithmetic, leap-year calculations, working-day validation, and intersecting **Period Overlap/Length algorithms**.
-* 🧮 **[Calculator Engine Class](./Course%2010:%20Projects/):** A stateful calculator demonstrating property encapsulation, arithmetic state persistence, and method-chaining logic.
 * 🚀 **[Main Projects Repository](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses):** The unified repository showcasing all integrated applications built across the roadmap.
 
 ### 🧩 Exercises & Core Homeworks
