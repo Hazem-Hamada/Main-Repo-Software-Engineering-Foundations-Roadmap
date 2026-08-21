@@ -12,9 +12,6 @@ This course is the cornerstone of the entire Software Engineering track. Marking
 * 📅 **[clsDate & clsPeriod Libraries](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/tree/main/Course%2010%3A%20Projects/Project%202%20-%20Date%20Library):** An enterprise date-engineering suite handling complex calendar arithmetic, leap-year calculations, working-day validation, and intersecting **Period Overlap/Length algorithms**.
 * 🚀 **[Main Projects Repository](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses):** The unified repository showcasing all integrated applications built across the roadmap.
 
-### 🧩 Exercises & Core Homeworks
-* 📂 **[View Hands-On OOP Exercises](./01-Class-Exercises/):** Object-oriented implementations covering class hierarchies (`Person`, `Employee`, `Developer`), static member management, and object composition.
-
 ### 🌐 Social & Technical Write-Ups
 * 📢 **[LinkedIn: String Library Architecture Deep-Dive](ضع_رابط_منشور_clsString_هنا_بعد_الرفع):** *[ضع رابط منشور clsString هنا بعد الرفع]* Technical breakdown of Dual API Design (Static vs Instance) in C++.
 * 🎓 **[LinkedIn: Course 10 Completion & Date/Period Showcase](ضع_رابط_منشور_الكورس_هنا_بعد_الرفع):** *[ضع رابط منشور الكورس هنا بعد الرفع]* Architecture breakdown of `clsDate` and the shift toward Object-Oriented design patterns.
