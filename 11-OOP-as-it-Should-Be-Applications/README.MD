@@ -1,4 +1,3 @@
-```markdown
 # 📘 Course 11: Object-Oriented Programming (Applications)
 > **"From OOP Theory to Production-Grade Architecture: Building Scalable, Layered Systems in C++"**
 
@@ -10,31 +9,22 @@ This course represents the practical culmination of the Object-Oriented Programm
 
 ### 🏗️ Production-Grade Capstone System & Libraries
 * 🏦 **[Capstone Project: OOP Bank & Currency Exchange System](https://github.com/Hazem-Hamada/OOP-Bank-And-Currency-Exchange-System):** A full-scale, 3-tier console application featuring Client/User CRUD, Bitwise permissions, encrypted file storage, audit logging, and a complete Currency Exchange module.
-* 🧰 **[Utility & Validation Libraries (`clsUtil` & `clsInputValidate`)](ضع_رابط_الريبو_الجديد_للمشروع_هنا):** Reusable header-only C++ libraries providing defensive input validation, randomization, and encryption helpers.
+* 🧰 **[Utility & Validation Libraries (`clsUtil` & `clsInputValidate`)](https://github.com/Hazem-Hamada/OOP-Bank-And-Currency-Exchange-System):** Reusable header-only C++ libraries providing defensive input validation, randomization, and encryption helpers.
 * 🚀 **[Main Projects Repository](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses):** Gallery of all integrated systems and libraries built across the roadmap.
 
 ### 🌐 Social & Technical Write-Ups
-* 🎓 **[LinkedIn: Course 11 Completion & System Architecture Showcase](ضع_رابط_منشور_الكورس_هنا_بعد_الرفع):** *[ضع رابط منشور كورس 11 هنا بعد الرفع]* Architectural breakdown of decoupling UI from Business Logic, security extensions, and building scalable OOP systems.
+* 🎓 **[LinkedIn: Course 11 Completion & System Architecture Showcase](ضع_رابط_منشور_كورس_11_هنا_بعد_الرفع):** *[رابط مؤقت: ضع رابط منشور كورس 11 هنا بعد الرفع]* Architectural breakdown of decoupling UI from Business Logic, security extensions, and building scalable OOP systems.
 
 ---
 
-## 🧠 Architectural & Technical Mastery
+## 🧠 The "Layered Architecture" Mindset
+In this stage, the focus shifted from designing individual classes to **orchestrating a 30+ file software system** where every layer has a single, isolated responsibility.
 
-### 1. Layered Architecture & Separation of Concerns
-* **Decoupled UI & Business Logic:** Enforced strict isolation between data/business classes (`clsBankClient`, `clsUser`, `clsCurrency`) and console presentation screens (`clsScreen` hierarchy), ensuring core logic remains independent of the interface layer.
-* **Screen Inheritance Hierarchy:** Centralized common UI behaviors—header rendering, active session display, system timestamps, and permission checks—inside a base `clsScreen` class inherited by 20+ specialized screens.
-* **Physical Code Organization:** Structured a 30+ file C++ codebase into clean, single-responsibility header libraries (`.h`) with guarded dependencies.
-
-### 2. Enterprise Security, Auditing & Data Integrity
-* **Authentication & Lockout Policy:** Engineered a login state machine enforcing a 3-attempt failure lockout alongside global session tracking (`CurrentUser`).
-* **Bitwise Permission Engine:** Implemented granular role-based access control using Bitwise masks to restrict screen access and sensitive audit logs.
-* **Data Encryption & Serialization:** Protected sensitive credentials at rest by encrypting user passwords prior to flat-file persistence (`#//#` delimiter).
-* **System Audit Logs:** Built persistent logging subsystems tracking user login history (`LoginRegister`) and financial transfer trails (`TransfersLog`).
-
-### 3. Defensive Libraries & Generic Programming
-* **Input Validation Engine (`clsInputValidate`):** Built static validation routines handling stream failure states, numeric range enforcement, and date boundary checks.
-* **C++ Templates:** Applied **Template Functions** and **Template Classes** to write type-agnostic, reusable algorithms and data wrappers.
-* **Interface & Abstract Class Design:** Implemented pure virtual contracts to enforce standardized behavior across concrete classes.
+**Key Architectural Pillars:**
+* **Decoupled UI & Business Logic:** Enforced strict isolation between domain classes (`clsBankClient`, `clsUser`, `clsCurrency`) and console screens (`clsScreen` hierarchy) with zero `cout`/`cin` inside core logic.
+* **Screen Inheritance Hierarchy:** Centralized shared UI behaviors—header rendering, active session display, system timestamps, and permission checks—inside a base `clsScreen` class inherited by 20+ screens.
+* **Enterprise Security & Auditing:** Implemented a 3-attempt login lockout, Bitwise role-based permissions, password encryption at rest, and persistent audit logs (`LoginRegister` & `TransfersLog`).
+* **Generic & Defensive C++:** Built `clsInputValidate` to guard against stream failures and applied **Template Functions/Classes** for type-agnostic components.
 
 ---
 
@@ -42,12 +32,12 @@ This course represents the practical culmination of the Object-Oriented Programm
 * **System Architecture:** 3-Tier Layered Design (Presentation, Business Logic, Data Persistence).
 * **OOP Execution:** Multi-level Inheritance, Polymorphism, Pure Virtual Interfaces, and Class Composition.
 * **Security & Auditing:** Bitwise RBAC, Password Encryption, Brute-Force Lockout, and Activity Logging.
-* **Generic & Defensive C++:** Template Functions/Classes, Stream Sanitization, and Reusable Header Libraries.
+* **Code Organization:** Structuring a 30+ file codebase into clean, single-responsibility header libraries (`.h`).
 
 ---
 
 ## 🎓 Final Outcome
-Completing Course 11 proves the ability to architect, extend, and maintain complex, multi-file Object-Oriented systems without breaking existing functionality—establishing a solid engineering foundation for **Data Structures**, **Algorithms**, and **Enterprise Backend Development**.
+Completing Course 11 proves the ability to architect, extend, and maintain complex, multi-file Object-Oriented systems without breaking existing functionality—establishing a solid engineering foundation for **Data Structures**, **Algorithms**, and **Backend Development**.
 
 ---
 **Developed By Eng. Hazem Hamada**
