@@ -13,7 +13,7 @@ This course represents the practical culmination of the Object-Oriented Programm
 * 🚀 **[Main Projects Repository](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses):** Gallery of all integrated systems and libraries built across the roadmap.
 
 ### 🌐 Social & Technical Write-Ups
-* 🎓 **[LinkedIn: Course 11 Completion & System Architecture Showcase](ضع_رابط_منشور_كورس_11_هنا_بعد_الرفع):** *[رابط مؤقت: ضع رابط منشور كورس 11 هنا بعد الرفع]* Architectural breakdown of decoupling UI from Business Logic, security extensions, and building scalable OOP systems.
+* 🎓 **[LinkedIn: Course 11 Completion & System Architecture Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7532017072847937536/):** Architectural breakdown of decoupling UI from Business Logic, security extensions, and building scalable OOP systems.
 
 ---
 
