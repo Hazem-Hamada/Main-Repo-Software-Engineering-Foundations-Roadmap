@@ -8,7 +8,7 @@
 
 ### 🚀 Software Engineering Roadmap Checklist
 
-### 📊 Roadmap Progress (10/27 Courses)
+### 📊 Roadmap Progress (11/27 Courses)
 
 --
 
